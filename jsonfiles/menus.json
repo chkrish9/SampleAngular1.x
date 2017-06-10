@@ -1,0 +1,10 @@
+[
+	{
+		"username":"admin",
+		"menus":[{"Name":"Admin"},{"Name":"About"}]
+	},
+	{
+		"username":"guest",
+		"menus":[{"Name":"Guest"},{"Name":"About"}]
+	}
+]
